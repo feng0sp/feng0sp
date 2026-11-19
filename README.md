@@ -6,7 +6,7 @@
 
 | 项目 | 内容 | 技术 |
 | --- | --- | --- |
-| [知章学习助手](https://github.com/feng0sp/learning-assistant) | 本地课程学习、资料整理、练习、笔记和备份 | Python、FastAPI、SQLite、JavaScript |
+| [知章学习助手](https://github.com/feng0sp/learning-assistant) | 四门计算机核心课导学、练习及可验证实验；[在线体验](https://zhizhang-core-courses.nuttsmidt.chatgpt.site) | Python、FastAPI、SQLite、JavaScript |
 | [榫间](https://github.com/feng0sp/sun-jian) | 二维场景探索与三维榫卯拆装结合的中文解谜游戏 | JavaScript、Three.js、Playwright |
 | [小学期 CPU](https://github.com/feng0sp/minicpu-basic) | 三人合作课程项目，主要参与数据通路图设计；保留团队源码与可编辑图纸 | CPU 数据通路、drawio、Verilog |
 
